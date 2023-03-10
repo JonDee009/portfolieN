@@ -80,7 +80,7 @@
   display: flex;
   flex-direction: column;
   flex-wrap:wrap;
-  transform: scale(0.7);
+  transform: scale(0.4);
   transform-origin: 50% 50%;
   transition: transform 0.4s ease;
   
@@ -99,8 +99,8 @@
 
 .add a svg {
   display: block;
-  width: 11px;
-  height: 11px;
+  width: 14px;
+  height: 14px;
   position: absolute;
   left: 50%;
   top: 50%;
